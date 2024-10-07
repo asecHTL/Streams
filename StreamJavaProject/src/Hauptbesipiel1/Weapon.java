@@ -1,3 +1,8 @@
+package Hauptbesipiel1;
+
+import Hauptbesipiel1.CombatType;
+import Hauptbesipiel1.DamageType;
+
 public class Weapon {
     private String name;
     private CombatType combatType;
